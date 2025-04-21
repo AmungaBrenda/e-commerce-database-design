@@ -48,6 +48,13 @@ To set up the database locally:
 
 ---
 
+## 📬 Contact
+For any queries related to this project, feel free to reach out via GitHub issues or contact the collaborators.
+
+Let me know if you'd like me to generate the actual `ecommerce.sql` file based on your ERD too!
+
+---
+
 ## 📂 Repository Structure
 
 ```plaintext
@@ -56,11 +63,4 @@ To set up the database locally:
 ├── ecommerce Diagram.pdf       # Entity-Relationship Diagram
 └── README.md                   # Project documentation
 
----
 
-📬 Contact
-For any queries related to this project, feel free to reach out via GitHub issues or contact the collaborators.
-
----
-
-Let me know if you'd like me to generate the actual `ecommerce.sql` file based on your ERD too!
